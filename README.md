@@ -26,6 +26,15 @@ Skills - Python, Django, HTML & CSS, Bootstrap, SQLite, JavaScript, XML, AJAX
 
 ![image](https://github.com/jayakrishna1204/Blood-Bank-System/assets/160568830/fb960376-ea61-49f9-9dff-12cd4c98ff57)
 
+# Watch Blood Donation Video: -
+
+
+
+https://github.com/jayakrishna1204/Blood-Bank-System/assets/160568830/01078b45-b22b-4983-858c-c0458f494095
+
+
+
+
 # Used in Bootstrap Template Source: -
 
 Checkout Project Resoucre - https://bootstrapmade.com/demo/Medilab/
