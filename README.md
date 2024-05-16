@@ -8,6 +8,11 @@ Ensure efficient update data in retrieving and checking the clean code of variou
 
 Skills - Python, Django, HTML & CSS, Bootstrap, SQLite, JavaScript, XML, AJAX
 
+# Check out my Web App in Live Preview: -
+```
+https://jayakrishna1204.pythonanywhere.com/
+```
+
 # Preview of Blood Bank System Web Application: -
 
 ![image](https://github.com/jayakrishna1204/Blood-Bank-System/assets/160568830/5207fbc7-790e-4353-8d94-7619e226b06b)
