@@ -95,7 +95,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-# Requirements latest version of Software Updates: -
+# Requirements used version of Softwares: -
 - Python 3.11.5
 - Django 5.0
 
